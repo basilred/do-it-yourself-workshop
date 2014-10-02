@@ -1,0 +1,5 @@
+({
+	mod : 'update',
+    mustDeps: [],
+    shouldDeps: []
+})

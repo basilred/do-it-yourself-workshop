@@ -1,0 +1,7 @@
+body .content
+{
+    column-count: 4;
+    column-gap: 15px;
+    padding: 10px 10%;
+    transition: opacity 0.25s;
+}
